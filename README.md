@@ -52,6 +52,7 @@ Inference Rules , Closure etc
 
 ## Execution
 To execute you can run on MySQL workbench.
+To run a particular Query you can highlight the query and press ctrl + enter or you can use the lightning symbol on the MySQL navigator interface.
 Xampp can also be used make sure you start MySQL and Apache.
 
 
